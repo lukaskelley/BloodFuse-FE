@@ -1,0 +1,67 @@
+#Home {
+  background-image: url(https://anatha.io/wp-content/uploads/2021/11/Hero-Full-3.jpg);
+  background-size: cover;
+  background-attachment: scroll;
+  background-position: 50% 50%;
+  background-color: transparent;
+  font-family: "termina", sans-serif !important;
+}
+
+.row-Home {
+  margin: 0px !important;
+  padding-top: 100px;
+  background: black;
+}
+
+.Homeimg-ring {
+  justify-content: center !important;
+  position: absolute;
+  background-color: white;
+  border-radius: 50%;
+  z-index: 8;
+  width: 400px;
+  height: 400px;
+}
+
+.img-Home {
+  position: relative;
+  z-index: 9;
+  height: 610px;
+  width: 650px;
+}
+
+.Home-title-container {
+  padding-top: 80px;
+  padding-left: 80px !important;
+}
+
+.Home-title-container>p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 60px;
+  line-height: 120%;
+  text-align: left;
+  letter-spacing: 0.1em;
+  color: #FCFCFC;
+}
+
+.Home-title-container>p>span {
+  color: #F00530;
+}
+
+.Home-title-container>div {
+  padding-right: 240px;
+}
+
+.Home-title-container>div>p {
+  color: white;
+  text-align: left;
+}
+
+.donate-request-btn-container {
+  padding: 0px !important;
+}
+
+.donate-request-btn-container>button {
+  margin-right: 20px;
+}

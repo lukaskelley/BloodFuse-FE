@@ -1,0 +1,12 @@
+#LearnMore {
+  margin-right: 0px;
+  padding-bottom: 15%;
+  padding: 100px;
+}
+
+#LearnMore>h1 {
+  text-align: center;
+  margin-bottom: 10%;
+  font-size: 25px;
+  font-weight: 600;
+}

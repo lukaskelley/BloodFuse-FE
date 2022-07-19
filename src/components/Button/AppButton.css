@@ -1,0 +1,76 @@
+.red-btn {
+  background-color: #F00530 !important;
+  border: none;
+  color: white;
+  width: 240px;
+  height: 45px;
+  border-radius: 3px;
+}
+
+.red-btn:hover {
+  background-color: #c92543 !important;
+  color: white;
+  transition: 0.3s;
+}
+
+.white-btn {
+  background-color: transparent !important;
+  border: 1px solid white;
+  color: white;
+  width: 240px;
+  height: 45px;
+  border-radius: 3px;
+}
+
+.white-btn:hover {
+  background-color: white !important;
+  color: black;
+  border: 1px solid black;
+  transition: 0.3s;
+}
+
+.commu-btn {
+  background-color: #F00530 !important;
+  border: none;
+  color: white;
+  width: 100%;
+  height: 45px;
+  border-radius: 3px;
+}
+
+.commu-btn:hover {
+  background-color: #c92543 !important;
+  color: white;
+  transition: 0.3s;
+}
+
+.about-btn {
+  background-color: #F00530 !important;
+  border: none;
+  color: white;
+  width: 100%;
+  height: 45px;
+  border-radius: 3px;
+}
+
+.about-btn:hover {
+  background-color: #c92543 !important;
+  color: white;
+  transition: 0.3s;
+}
+
+.about-request-btn {
+  background-color: transparent !important;
+  border: 1px solid #F00530;
+  color: #F00530 !important;
+  width: 100%;
+  height: 45px;
+  border-radius: 3px;
+}
+
+.about-request-btn:hover {
+  background-color: #F00530 !important;
+  border: 1px solid #F00530;
+  color: white !important;
+  transition: 0.3s;
+}

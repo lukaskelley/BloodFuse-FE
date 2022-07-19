@@ -1,0 +1,64 @@
+nav {
+  height: 80px;
+  display: flex;
+  padding-top: 1rem !important;
+  z-index: 100;
+  position: fixed !important;
+  width: 100%;
+  background: black;
+}
+
+.img-logo {
+  width: 80px;
+  height: 50px;
+}
+
+.menu-container {
+  padding-top: 0.8rem !important;
+}
+
+.btn-container {
+  padding-top: 0.4rem !important;
+}
+
+.dropdown-container {
+  justify-content: center !important;
+  width: 100% !important;
+}
+
+a {
+  color: white !important;
+  font-size: 15px !important;
+  margin-left: 80px !important;
+}
+
+.ant-dropdown-menu-title-content>a {
+  color: black !important;
+  margin-left: 0px !important;
+
+}
+
+.btn-signup {
+  background-color: transparent !important;
+  color: white !important;
+  border: 0px !important;
+}
+
+.btn-signup:hover {
+  transition: 0.5s;
+  color: rgb(190, 189, 189) !important;
+}
+
+.btn-login {
+  width: 100px !important;
+  border-radius: 5px;
+  height: 37px !important;
+  background-color: red !important;
+  color: white !important;
+  border: 0px !important;
+}
+
+.btn-login:hover {
+  transition: 0.5s !important;
+  background: rgb(172, 41, 41) !important;
+}

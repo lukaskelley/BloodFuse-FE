@@ -1,0 +1,30 @@
+#Community {
+  padding: 30px;
+  padding-top: 150px;
+}
+
+.community-top-title {
+  text-align: center;
+}
+
+.community-top-title>h1 {
+  font-family: 'Moderat';
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 18px;
+  padding-bottom: 20px;
+  letter-spacing: 0.02em;
+}
+
+.community-top-title>h2 {
+  font-family: 'Roboto Condensed';
+  line-height: 140%;
+  font-style: normal;
+  font-weight: 600 !important;
+  font-size: 100px;
+  padding-bottom: 20px;
+}
+
+.community-top-title>p {
+  font-size: 11px;
+}

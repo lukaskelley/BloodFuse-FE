@@ -1,0 +1,68 @@
+#Footer {
+  background-color: black;
+  padding-top: 60px;
+  padding-bottom: 5%;
+}
+
+.footer-btn_contain>h1 {
+  padding-left: 10%;
+  padding-right: 10%;
+  color: white;
+  font-size: 30px;
+  line-height: 2rem;
+}
+
+.footer-btn_contain>p {
+  padding-left: 10%;
+  padding-right: 10%;
+  color: white;
+  font-size: 13px;
+  line-height: 2rem;
+}
+
+.donate-blood-contain>h1,
+.about-us-contain>h1,
+.contact-contain>h1 {
+  color: white !important
+}
+
+.donate-blood-contain>p>a,
+.about-us-contain>p>a,
+.contact-contain>p>a {
+  font-size: 13px !important;
+  margin: 0px !important;
+}
+
+.contact-contain>div>.anticon,
+span {
+  color: white;
+}
+
+.email-box-container {
+  padding-left: 10%;
+  padding-right: 20%;
+}
+
+.email-box {
+  border: none;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.ant-input-group-addon {
+  background-color: rgba(252, 252, 252, 0.5) !important;
+  color: white !important;
+  border: none !important;
+}
+
+.email-box>.ant-input-group>.ant-input {
+  height: 40px !important;
+}
+
+.Footer-row_whitepaper {
+  padding-top: 3%;
+  color: white;
+  text-align: center;
+  margin-top: 10% !important;
+  border-top: 1px solid white;
+}
